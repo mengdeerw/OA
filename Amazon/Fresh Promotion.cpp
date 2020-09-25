@@ -1,4 +1,7 @@
-#https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions
+//https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions
+/*
+Inspired by leecode 392-Is subsequence. Use two pointers i and j respectively for an element in two given lists. For a specific code codelist[i], check the subarray with the same length of codelist[i] starting from j in shoppingCart List.
+*/
 
 #include <vector>
 #include <iostream>
