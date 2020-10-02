@@ -20,3 +20,6 @@ OA2: workstyle simulation 120 mins + 2题coding 70mins
 链接：https://www.jianshu.com/p/ddbb0321b90c
 来源：简书
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+Behaviour questions:
+https://medium.com/@scarletinked/are-you-the-leader-were-looking-for-interviewing-at-amazon-8301d787815d
