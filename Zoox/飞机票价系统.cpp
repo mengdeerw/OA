@@ -1,13 +1,3 @@
-
-他们家的HR疯狂勾搭，于是决定去面一面。看他们家大部分都是用c++，我跟HR说我不太熟C++只能用Java，HR说好鸭。我就接着去面了。
-
-
-
-
-
-先是一些快问快答。比如Java和其他语言的特性。JVM是什么。Java如何分配内存之类的。
-然后做题：题目很有意思，不是算法，而是OOD。
-
 /*
 You're building a tool to estimate the cost of various airplane tickets based on the airline, distance and seating class. Your tool must take in this information as a series of inputs (one ticket calculation per line of input) and produce a list of output costs.
 
